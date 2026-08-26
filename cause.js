@@ -132,16 +132,16 @@ function createFloatingElement() {
   });
 }
 
-// Custom cursor
-const cursor = document.querySelector(".custom-cursor");
+// // Custom cursor
+// const cursor = document.querySelector(".custom-cursor");
 
-document.addEventListener("mousemove", (e) => {
-  gsap.to(cursor, {
-    x: e.clientX - 15,
-    y: e.clientY - 15,
-    duration: 0.2,
-  });
-});
+// document.addEventListener("mousemove", (e) => {
+//   gsap.to(cursor, {
+//     x: e.clientX - 15,
+//     y: e.clientY - 15,
+//     duration: 0.2,
+//   });
+// });
 
 // Create initial floating elements
 setInterval(createFloatingElement, 2000);
