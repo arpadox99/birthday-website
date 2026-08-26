@@ -11,7 +11,7 @@ const reasons = [
     gif: "gif2.gif",
   },
   {
-    text: "Semoga usi selalu sehat, bahagia, dan panjang umur, supaya masih bisa ketawa-ketawa deng hal-hal seng penting, tapi jang talalu baamarah, ruk-ruk deng bapukul-pukul orang eee 😭😂 Tetap jadi usi yang seru, jangan lupa bahagia, dan semoga selalu ada alasan for ketawa setiap hari. 🌸 ",
+    text: "Semoga usi selalu sehat, bahagia, dan panjang umur, supaya masih bisa ketawa-ketawa deng hal-hal seng penting, tapi jang talalu bamarah, ruk-ruk deng bapukul-pukul orang eee 😭😂 Tetap jadi usi yang seru, jangan lupa bahagia, dan semoga selalu ada alasan for ketawa setiap hari. 🌸 ",
     emoji: "💕",
     gif: "gif1.gif",
   },
